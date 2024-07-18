@@ -9,6 +9,6 @@ func ConcatString(str1, str2 string) string {
 
 func main() {
 	
-	result := ConcatString("Ishu, ", "Padsala")
+	result := ConcatString("Ishu ", "Padsala")
 	fmt.Println(result) 
 }
